@@ -1,0 +1,13 @@
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\bin\Debug\BitCoinCalculatorr.exe.config
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\bin\Debug\BitCoinCalculatorr.exe
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\bin\Debug\BitCoinCalculatorr.pdb
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\obj\Debug\BitCoinCalculatorr.csprojAssemblyReference.cache
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\obj\Debug\BitCoinCalculatorr.Form1.resources
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\obj\Debug\BitCoinCalculatorr.Properties.Resources.resources
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\obj\Debug\BitCoinCalculatorr.csproj.GenerateResource.cache
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\obj\Debug\BitCoinCalculatorr.csproj.CoreCompileInputs.cache
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\obj\Debug\BitCoinCalculatorr.exe
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\obj\Debug\BitCoinCalculatorr.pdb
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gazik\source\repos\BitCoinCalculatorr\BitCoinCalculatorr\obj\Debug\BitCoinCalculatorr.csproj.CopyComplete
